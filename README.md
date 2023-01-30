@@ -1,5 +1,5 @@
 # Data Engineering with Snowpark
-TESTThis repository contains a hands-on lab for data engineering in Snowflake with Snowpark! Here is an overview of what we'll build in this lab:
+This repository contains a hands-on lab for data engineering in Snowflake with Snowpark! Here is an overview of what we'll build in this lab:
 
 <img src="images/demo_overview.png" width=800px>
 
